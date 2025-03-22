@@ -1,0 +1,7 @@
+llm-1/
+*.log
+*.pyc
+*.pyo
+.vscode/
+
+
